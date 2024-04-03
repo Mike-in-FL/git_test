@@ -1,1 +1,3 @@
 Adding some text...
+So i need to press the "i" key to INSERT and "esc" to go back to normal
+That works (added 4/3/24)
